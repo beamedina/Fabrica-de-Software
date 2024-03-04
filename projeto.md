@@ -7,12 +7,12 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-
+|Beatriz Alexandra de Oliveira Medina|Gerente de Projeto|alexandra.medina@estudante.ifro.edu.br|
+|Maria Ritha de Kássia Santos|Design|maria.ritha@estudante.ifro.edu.br|
+|Isabelly Caroline Santos Souza|Back End|Carolineisabelly738@gmail.com.br|
+|Marianny Gonçalves Moreira|Front End|mariannygoncalvesmoreira@gmail.com|
+|Leticia Gonçalves Ferreira Dos Santos|Testador de sofware|leticia.ferreira@estudante.ifro.edu.br|
+|Luiz Antônio Amorim Tércio|Back End|luiz.a@estudante.ifro.edu.br|
 
 # Sumário
 
