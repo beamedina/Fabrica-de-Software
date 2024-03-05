@@ -1,6 +1,6 @@
 <img src='/img/logo.png' alt='logo da empresa' width='50px' heidth='50px'/>
 
-# *FIBONACCI MANAGEMENT SYSTEM*
+# *Site Web Para Academia*
 
 # PROJETO DE SOFTWARE
 
@@ -82,8 +82,15 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
+|RF-001 |Cadastrar Cliente  | Fazer cadastro de novos clientes |
+|RF-002 | Excluir cadastro | Excluir cadastros de clientes que cancelaram seus planos |
+|RF-003 | consultar clientes  | Consultar usuários para verificação de mensalidade, treibos, etc. |
+|RF-004 |Fazer tela de login  | Pede usuário e senha para efetuar o login |
+|RF-005 | Fazer tela de mesalidades  | Apresenta as opções de planos de mensalidade |
+|RF-006 |Fazer tela de professores  | Uma tela para mostrar os treinadores e suas especializações |
+|RF-007 |Cadastrar aparelhos  | Fazer cadastro de aparelhos disponiveis na academia |
+|RF-008 |Fazer tela de treinos  | Fazer cadastro de novos clientes |
+
 
 
 ## Requisitos Não Funcionais
