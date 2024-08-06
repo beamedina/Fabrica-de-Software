@@ -84,12 +84,15 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 :---|:---|:---|
 |RF-001 |Cadastrar Cliente  | Fazer cadastro de novos clientes |
 |RF-002 | Excluir cadastro | Excluir cadastros de clientes que cancelaram seus planos |
-|RF-003 | consultar clientes  | Consultar usuários para verificação de mensalidade, treibos, etc. |
+|RF-003 | consultar clientes  | Consultar usuários para verificação de mensalidade, treinos, etc. |
 |RF-004 |Fazer tela de login  | Pede usuário e senha para efetuar o login |
 |RF-005 | Fazer tela de mesalidades  | Apresenta as opções de planos de mensalidade |
-|RF-006 |Fazer tela de professores  | Uma tela para mostrar os treinadores e suas especializações |
+|RF-006 |Cadastrar professores  | Fazer cadastro de professores |
 |RF-007 |Cadastrar aparelhos  | Fazer cadastro de aparelhos disponiveis na academia |
-|RF-008 |Fazer tela de treinos  | Fazer cadastro de novos clientes |
+|RF-008 |Fazer tela de treinos  | Mostrar os treinos do usuário |
+|RF-009 |Cadastrar treinos  | Adicionar treinos |
+|RF-010 |Cadastrar atividades  | Adicionar atividades |
+|RF-011 |Fazer tela de treinos  | Mostrar os treinos do usuário |
 
 
 
