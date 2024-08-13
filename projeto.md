@@ -93,7 +93,8 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-009 |Cadastrar treinos  | Adicionar treinos |
 |RF-010 |Cadastrar atividades  | Adicionar atividades |
 |RF-011 |Fazer tela de treinos  | Mostrar os treinos do usuário |
-
+|RF-012 |Cadastrar e excluir cargo  |Colocar cargos dos professores  |
+|RF-013 |Fazer tela de vendas (compras)  |Fazer uma tela para as vendas de mensalidade  |
 
 
 ## Requisitos Não Funcionais
