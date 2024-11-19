@@ -16,11 +16,11 @@ button{
     background-color: #D23636;
     color: #E5E5E5;
     margin-top: 30px;
-    margin-left: 550px;
+    margin-left: 850px;
     width: 200px;
     height: 40px;
     font-family: "Jockey One", sans-serif;
-    margin-bottom: 200px;
+    margin-bottom: 50px;
 }
 
 form{
@@ -45,14 +45,24 @@ input{
 }
 
 label{
-    margin-right: 25%;
+    margin-right: 26%;
     font-family: "Jockey One", sans-serif;
-
 }
 
 .primeiro_quadro{
-    margin-right: 27% ;
+    margin-right: 24% ;
     margin-top: 70px;
-    
+}
 
+.segundo-quadro{
+    margin-right: 28%;
+}
+
+.terceiro-quadro{
+    margin-right: 27%;
+}
+
+a img{
+    width: 20px;
+    margin-left: 1850px;
 }
